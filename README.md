@@ -1,7 +1,7 @@
 # Brain Tumor Classification using Convolutional Neural Network (CNN)
 
 ## Project Overview
-This project involves the development of a Convolutional Neural Network (CNN) to classify brain tumors from medical imaging data. The goal is to create an accurate and efficient model for identifying different tumor types, which can have significant applications in healthcare diagnostics.
+This (ONGOING) project involves the development of a Convolutional Neural Network (CNN) to classify brain tumors from medical imaging data. The goal is to create an accurate and efficient model for identifying different tumor types, which can have significant applications in healthcare diagnostics.
 
 ## Motivation
 Driven by a passion for applying machine learning to healthcare, this project aims to explore the potential of AI to improve patient care and diagnostic processes. Additionally, it provides an opportunity to:
